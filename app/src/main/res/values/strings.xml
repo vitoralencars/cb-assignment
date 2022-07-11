@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoolblueAssignment</string>
+
+    <string name="search_bar_hint">Search Products</string>
+    <string name="search_greetings">What are you looking for?</string>
+    <string name="search_empty_list">No products found</string>
+    <string name="search_try_again_button">Try again!</string>
+    <string name="search_item_tapped">%s tapped</string>
+    <string name="search_image_content_description">%s illustration</string>
+</resources>
